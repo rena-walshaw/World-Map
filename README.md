@@ -38,12 +38,14 @@ You should see a world map where you can click on a country to view its details!
   - 🖼️ Responsive two-column layout
 
 📁 Folder Structure Overview
+```text
 src/
   └── app/
       └── world/            # World map component and service
   └── assets/
       └── map-image.svg     # SVG map file
   └── main.ts, styles.css   # Bootstrap files
+```
 
 🧠 Notes
   - node_modules is excluded from version control (.gitignore)

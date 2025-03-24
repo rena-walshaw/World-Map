@@ -9,13 +9,16 @@ Make sure you have Node.js and Angular CLI installed on your machine.
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/rena-walshaw/World-Map.git
-2. Navigate into the project folder
+2. **Navigate into the project folder**
+   ```bash
    cd World-Map
-3. Install dependencies
+4. **Install dependencies**
+   ```bash
    npm install
-4. Start the development server
+5. **Start the development server**
+   ```bash
    ng serve
-5. Open your browser and go to:
+6. **Open your browser and go to:**
    http://localhost:4200
 
 You should see a world map where you can click on a country to view its details!
